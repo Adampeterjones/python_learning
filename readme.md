@@ -1,0 +1,1 @@
+this is a repos for learning and testing of python following the python institute certification paths
